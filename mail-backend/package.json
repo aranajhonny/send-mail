@@ -1,0 +1,15 @@
+{
+  "name": "json-body-parsing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "latest",
+    "sendgrid": "5.1.0",
+    "urlencoded-body-parser": "^2.0.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
